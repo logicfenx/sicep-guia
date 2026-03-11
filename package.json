@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/sicep-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a sicep-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/sicep-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://impactandlearning.org/es/sicep/"
+    },
+    "homepage": "https://impactandlearning.org/es/sicep/"
+}
